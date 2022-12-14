@@ -11,4 +11,10 @@ phlow: # replace this with your info
   uri: http://phlow.de/
   email:
   twitter: "@phlow"
+causasdobem: # replace this with your info
+  name: "Causas do Bem"
+  siterole: "webmaster, developer, copywriter, designer"
+  uri: http://causasdobem.com/
+  email: causasdobem@gmail.com
+  twitter: "@causasdobem"
 # you can add more authors here
